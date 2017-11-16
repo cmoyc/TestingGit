@@ -15,7 +15,7 @@ class ViewController: UIViewController {
     
     // MARK: Actions
     @IBAction func didPressTestButton(_ sender: UIButton) {
-        print("This is a Git tutorial")
+        print("This is a Git tutorial Finished")
     }
     
     // MARK: properties
