@@ -15,6 +15,7 @@
 		BB8CBAA31FBB5E460059C28F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BB8CBAA11FBB5E460059C28F /* LaunchScreen.storyboard */; };
 		BB8CBAAE1FBB5E460059C28F /* TestingGitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB8CBAAD1FBB5E460059C28F /* TestingGitTests.swift */; };
 		BB8CBAB91FBB5E460059C28F /* TestingGitUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB8CBAB81FBB5E460059C28F /* TestingGitUITests.swift */; };
+		BBB550B71FBE0F5D0063952D /* Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBB550B61FBE0F5D0063952D /* Test.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		BB8CBAB41FBB5E460059C28F /* TestingGitUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestingGitUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BB8CBAB81FBB5E460059C28F /* TestingGitUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestingGitUITests.swift; sourceTree = "<group>"; };
 		BB8CBABA1FBB5E460059C28F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BBB550B61FBE0F5D0063952D /* Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			children = (
 				BB8CBA951FBB5E460059C28F /* AppDelegate.swift */,
 				BB8CBA971FBB5E460059C28F /* ViewController.swift */,
+				BBB550B61FBE0F5D0063952D /* Test.swift */,
 				BB8CBA991FBB5E460059C28F /* Main.storyboard */,
 				BB8CBA9F1FBB5E460059C28F /* Assets.xcassets */,
 				BB8CBAA11FBB5E460059C28F /* LaunchScreen.storyboard */,
@@ -263,6 +266,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BB8CBA9E1FBB5E460059C28F /* TestingGit.xcdatamodeld in Sources */,
+				BBB550B71FBE0F5D0063952D /* Test.swift in Sources */,
 				BB8CBA981FBB5E460059C28F /* ViewController.swift in Sources */,
 				BB8CBA961FBB5E460059C28F /* AppDelegate.swift in Sources */,
 			);
